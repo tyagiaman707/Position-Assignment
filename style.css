@@ -16,7 +16,7 @@ body {
     content: "";
   position: absolute;
   inset: 0;
-  transform: skewY(10deg);
+  transform: skewY(9deg);
   background: linear-gradient(to right, #b92b27, #1565c0);
   box-shadow: 0px 0px 10px black ;
   z-index: -1;
